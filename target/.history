@@ -1,0 +1,10 @@
+~test-only org.functionalkoans.forscala.AboutAsserts
+exit
+~test-only org.functionalkoans.forscala.AboutAsserts
+exit
+~test-only org.functionalkoans.forscala.AboutAsserts
+exit
+namaste
+factorial(10)
+println(2)
+namaste
